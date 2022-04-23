@@ -5,7 +5,7 @@
 const person = {
   type: "Engineer",
   skills: [ "JavaScript", "Vue", "CSS" ],
-  keeps_learning: true,
+  keepsLearning: true,
 };
 
 // console.log("Hey there");
